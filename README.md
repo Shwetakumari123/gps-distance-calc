@@ -3,7 +3,7 @@ A library to calculate distance between two points.
 Features :
 Calculate the distance in KM between two position on earth with latitude and longitute given.
 
-Install
+Install : 
 npm install gps-distance-calc
 
 USAGE:
